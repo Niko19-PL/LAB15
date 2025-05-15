@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -29,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -94,22 +94,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Character.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h",
-              "RelativeDocumentMoniker": "Character.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h",
-              "RelativeToolTip": "Character.h",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T09:54:47.348Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -126,74 +112,88 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T09:54:22.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h",
+              "RelativeDocumentMoniker": "Character.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h",
+              "RelativeToolTip": "Character.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T09:54:47.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.cpp",
               "RelativeDocumentMoniker": "Character.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.cpp",
               "RelativeToolTip": "Character.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAHUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T09:54:48.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Warrior.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.cpp",
               "RelativeDocumentMoniker": "Warrior.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.cpp",
               "RelativeToolTip": "Warrior.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T09:54:37.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Warrior.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.h",
               "RelativeDocumentMoniker": "Warrior.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.h",
               "RelativeToolTip": "Warrior.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-24T09:54:35.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Mage.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.cpp",
               "RelativeDocumentMoniker": "Mage.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.cpp",
               "RelativeToolTip": "Mage.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T09:54:42.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Mage.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.h",
               "RelativeDocumentMoniker": "Mage.h",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.h",
               "RelativeToolTip": "Mage.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T09:54:42.277Z"
+              "WhenOpened": "2025-04-24T09:54:42.277Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

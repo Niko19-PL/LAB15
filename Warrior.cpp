@@ -2,11 +2,16 @@
 #include "Warrior.h"
 #include "Enemy.h"
 #include <iostream>
-
+#include <exception>
 Warrior::Warrior(std::string n, int hp, int atk, int def, int r, int db)
     : Character(n, CharacterType::Warrior, hp, atk, def), rage(r), defenseBoost(db) {
     defense += defenseBoost;
     
+    
+  
+    if (hp <= 0 ) {
+        throw std::invalid_argument("Invalid Warrior parameters: values cannot be negative or equal 0.");
+    }
 
     std::cout << "Warrior Constructor: " << name << " created with rage: " << rage << " and defense: " << defense << ".\n";
 }
@@ -27,6 +32,16 @@ void Warrior::increaseRage(const int amount) {
     std::cout << name << "'s rage has increased by " << amount << "!\n";
 
 }
+
+void Warrior::gainmuscle() {
+    if (rage > 75) {
+        std::cout << name << " warrior is mad enough to gain muscle.\n";
+    }
+    else {
+        throw std::logic_error("Warrior has not enough rage to gain muscle!");
+    }
+}
+
 
 void Warrior::boostDefense() {
     defense += 5;

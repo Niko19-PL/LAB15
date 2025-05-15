@@ -17,6 +17,7 @@ public:
     void castSpell(Enemy& enemy);
     void regenerateMana();
     void specialAction() override;  // Overriding the base class method
+    void checkManaBeforeSpell();
 };
 
 #endif // MAGE_H#pragma once
