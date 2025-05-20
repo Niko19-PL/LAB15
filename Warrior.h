@@ -19,7 +19,7 @@ public:
     void increaseRage(int amount);
     void boostDefense();
     void specialAction() override;
-    void gainmuscle();
+    void gainhp();
 
     int getRage() const;  // ✅ Const getter added
 

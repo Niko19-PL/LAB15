@@ -7,36 +7,48 @@
       "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Warrior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Warrior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:BattleManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Subject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\Arena.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -57,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:BattleManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|solutionrelative:BattleManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7828F3CD-FF8E-4F99-9814-67CFB1DA4A1D}|Project2 (1).vcxproj|C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -94,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,85 +114,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warrior.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.cpp",
+              "RelativeDocumentMoniker": "Warrior.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.cpp",
+              "RelativeToolTip": "Warrior.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T10:54:18.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UI.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\UI.h",
+              "RelativeDocumentMoniker": "UI.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\UI.h",
+              "RelativeToolTip": "UI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T10:26:17.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAFAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T09:54:22.015Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Character.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h",
-              "RelativeDocumentMoniker": "Character.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h",
-              "RelativeToolTip": "Character.h",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T09:54:47.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.cpp",
               "RelativeDocumentMoniker": "Character.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.cpp",
               "RelativeToolTip": "Character.cpp",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAHUAAAAFAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-24T09:54:48.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Warrior.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.cpp",
-              "RelativeDocumentMoniker": "Warrior.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.cpp",
-              "RelativeToolTip": "Warrior.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T09:54:37.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Warrior.h",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.h",
-              "RelativeDocumentMoniker": "Warrior.h",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Warrior.h",
-              "RelativeToolTip": "Warrior.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "DocumentIndex": 9,
+              "Title": "Subject.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Subject.h",
+              "RelativeDocumentMoniker": "Subject.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Subject.h",
+              "RelativeToolTip": "Subject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T09:54:35.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Mage.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.cpp",
-              "RelativeDocumentMoniker": "Mage.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.cpp",
-              "RelativeToolTip": "Mage.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T09:54:42.848Z",
+              "WhenOpened": "2025-05-20T09:55:11.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h",
+              "RelativeDocumentMoniker": "Character.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Character.h",
+              "RelativeToolTip": "Character.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T09:54:47.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Observer.h",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Observer.h",
+              "RelativeDocumentMoniker": "Observer.h",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Observer.h",
+              "RelativeToolTip": "Observer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T09:54:24.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Mage.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.h",
               "RelativeDocumentMoniker": "Mage.h",
@@ -197,19 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BattleManager.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleManager.cpp",
-              "RelativeDocumentMoniker": "BattleManager.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleManager.cpp",
-              "RelativeToolTip": "BattleManager.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T09:54:51.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "BattleManager.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleManager.h",
               "RelativeDocumentMoniker": "BattleManager.h",
@@ -217,11 +226,12 @@
               "RelativeToolTip": "BattleManager.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T09:54:50.396Z"
+              "WhenOpened": "2025-04-24T09:54:50.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "BattleUtils.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleUtils.cpp",
               "RelativeDocumentMoniker": "BattleUtils.cpp",
@@ -233,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "BattleUtils.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleUtils.h",
               "RelativeDocumentMoniker": "BattleUtils.h",
@@ -245,19 +255,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Enemy.cpp",
               "RelativeDocumentMoniker": "Enemy.cpp",
               "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Enemy.cpp",
               "RelativeToolTip": "Enemy.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T09:54:46.031Z"
+              "WhenOpened": "2025-04-24T09:54:46.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Enemy.h",
               "RelativeDocumentMoniker": "Enemy.h",
@@ -265,11 +276,37 @@
               "RelativeToolTip": "Enemy.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T09:54:45.396Z"
+              "WhenOpened": "2025-04-24T09:54:45.396Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
+              "Title": "Mage.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.cpp",
+              "RelativeDocumentMoniker": "Mage.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Mage.cpp",
+              "RelativeToolTip": "Mage.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:54:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BattleManager.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleManager.cpp",
+              "RelativeDocumentMoniker": "BattleManager.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleManager.cpp",
+              "RelativeToolTip": "BattleManager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:54:51.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Goblin.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Goblin.cpp",
               "RelativeDocumentMoniker": "Goblin.cpp",
@@ -281,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "BattleArena.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleArena.h",
               "RelativeDocumentMoniker": "BattleArena.h",
@@ -293,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "BattleArena.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\BattleArena.cpp",
               "RelativeDocumentMoniker": "BattleArena.cpp",
@@ -305,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Arena.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Arena.h",
               "RelativeDocumentMoniker": "Arena.h",
@@ -317,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Arena.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Arena.cpp",
               "RelativeDocumentMoniker": "Arena.cpp",
@@ -329,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Goblin.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Goblin.h",
               "RelativeDocumentMoniker": "Goblin.h",
@@ -341,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Orc.cpp",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Orc.cpp",
               "RelativeDocumentMoniker": "Orc.cpp",
@@ -353,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Orc.h",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nowy folder (2)\\Orc.h",
               "RelativeDocumentMoniker": "Orc.h",

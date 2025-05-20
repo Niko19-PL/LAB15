@@ -4,23 +4,30 @@
 #include "Mage.h"
 #include "Goblin.h"
 #include "Orc.h"
-#include <iostream>
-#include <exception>
+#include "UI.h"
+#include "iostream"
+#include "exception"
+#include "Observer.h"
+#include "Subject.h"
+
+
 
 int main() {
-    try {
+    /*try {
        
 
+
+        // Warrior with invalid (zero) health to demonstrate constructor-based exception
+        //Warrior w2("BrokenThorin", 1, 30, 15, 10, 5);
+
         // Mage with too low mana to demonstrate method-based exception
-       // Mage m2("Merlin", 80, 25, 10, 9, 40, 5); // Mana is too low
-       // m2.checkManaBeforeSpell(); // This should throw
+       // Mage m2("Merlin", 80, 25, 10, 11, 40, 5); // Mana is too low
+       // m2.checkManaBeforeSpell(); 
+
 
         // Warrior with invalid (zero) health to demonstrate constructor-based exception
-        //Warrior w2("BrokenThorin", 0, 30, 15, 10, 5); // This should throw
-
-        // Warrior with invalid (zero) health to demonstrate constructor-based exception
-        Warrior w3("BrokenThorin", 100, 30, 15, 10, 5); // This should throw
-         w3.gainmuscle(); // This should throw
+        Warrior w3("BrokenThorin", 100, 30, 15, 74, 5); 
+         w3.gainhp(); 
     }
     catch (const std::invalid_argument& e) {
         std::cerr << "invalid_argument: " << e.what() << std::endl;
@@ -33,5 +40,24 @@ int main() {
         std::cerr << "logic_error : " << e.what() << std::endl;
     }
 
-    return 0;
+   /**/ 
+    
+
+
+    
+        Character* warrior = new Warrior("Noone", 100, 50, 30, 80, 30);
+
+        UI* ui = new UI();
+
+        warrior->addObserver(ui);
+
+        std::cout << "Health before damage: " << warrior->getHealth() << std::endl;
+
+        warrior->takeDamage(80); 
+
+        std::cout << "Health after damage: " << warrior->getHealth() << std::endl;
+
+       
+        return 0;
+    
 }

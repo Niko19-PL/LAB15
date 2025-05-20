@@ -36,6 +36,9 @@ void Character::takeDamage(int damage) {
     if (reduced < 0) reduced = 0;
     health -= reduced;
     if (health < 0) health = 0;
+
+        notifyObservers();
+    
 }
 
 Character* Character::operator+(const Character& other) {

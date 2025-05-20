@@ -33,12 +33,14 @@ void Warrior::increaseRage(const int amount) {
 
 }
 
-void Warrior::gainmuscle() {
+void Warrior::gainhp() {
     if (rage > 75) {
-        std::cout << name << " warrior is mad enough to gain muscle.\n";
+        std::cout << name << " is mad enough to gain health.\n";
+        health += 10;  // Add 10 points of health
+        std::cout << name << " gains 10 health! New health: " << health << "\n";
     }
     else {
-        throw std::logic_error("Warrior has not enough rage to gain muscle!");
+        throw std::logic_error("Warrior does not have enough rage to gain muscle!");
     }
 }
 

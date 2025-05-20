@@ -148,7 +148,10 @@
     <ClInclude Include="Enemy.h" />
     <ClInclude Include="Goblin.h" />
     <ClInclude Include="Mage.h" />
+    <ClInclude Include="Subject.h" />
+    <ClInclude Include="Observer.h" />
     <ClInclude Include="Orc.h" />
+    <ClInclude Include="UI.h" />
     <ClInclude Include="Warrior.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
