@@ -3,6 +3,7 @@
 #include "Mage.h"
 #include "Enemy.h"
 #include <iostream>
+#pragma once
 
 int Character::objectCount = 0;
 
@@ -109,7 +110,7 @@ Character* Character::operator+(const Character& other) {
             );
         }
     }
-
+    
     return newCharacter;
 }
     bool Character::operator==(const Character & other) const {

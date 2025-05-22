@@ -1,6 +1,6 @@
 #ifndef BATTLEMANAGER_H
 #define BATTLEMANAGER_H
-
+#pragma once
 #include "Character.h"
 #include "Enemy.h"
 

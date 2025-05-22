@@ -1,7 +1,7 @@
 ﻿
 #ifndef WARRIOR_H
 #define WARRIOR_H
-
+#pragma once
 #include "Character.h"
 #include "Enemy.h"
 #include <string>

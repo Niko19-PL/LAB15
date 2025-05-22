@@ -1,4 +1,4 @@
-﻿
+﻿#pragma once
 #include "Warrior.h"
 #include "Enemy.h"
 #include <iostream>

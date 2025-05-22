@@ -4,6 +4,7 @@
 #include "Subject.h"
 #include <string>
 #include <vector>
+#pragma once
 
 
 class Enemy;

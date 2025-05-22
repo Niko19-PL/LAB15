@@ -1,5 +1,6 @@
 #include "BattleUtils.h"
 #include <iostream>
+#pragma once
 
 void displayStatus(const Character& character, const Enemy& enemy) {
     std::cout << "\n--- Status Update ---\n";
